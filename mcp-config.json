@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "geocontext": {
+      "command": "node",
+      "args": ["C:\\Users\\jared\\OneDrive\\Desktop\\geocontext-mcp-server\\build\\index.js"],
+      "env": {
+        "OPENROUTE_API_KEY": "eyJvcmciOiI1YjNjZTM1OTc4NTExMTAwMDFjZjYyNDgiLCJpZCI6Ijg5MjEzN2Y1MzAwYzQwNGNiMjQyYmVmNmE3ODAxNmZlIiwiaCI6Im11cm11cjY0In0="
+      }
+    }
+  }
+}
